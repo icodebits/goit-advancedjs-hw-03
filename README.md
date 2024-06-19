@@ -1,1 +1,1 @@
-# GoIT Advanced JavaScript - Home Work 2
+# GoIT Advanced JavaScript - Home Work 3
